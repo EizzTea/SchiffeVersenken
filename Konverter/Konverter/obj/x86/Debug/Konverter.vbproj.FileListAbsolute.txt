@@ -1,0 +1,12 @@
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\obj\x86\Debug\Konverter.Form1.resources
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\obj\x86\Debug\Konverter.Resources.resources
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\obj\x86\Debug\Konverter.vbproj.GenerateResource.Cache
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\bin\Debug\Konverter.exe
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\bin\Debug\Konverter.pdb
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\bin\Debug\Konverter.xml
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\obj\x86\Debug\Konverter.exe
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\obj\x86\Debug\Konverter.xml
+C:\Users\lembachp98\AppData\Local\Temporary Projects\Konverter\obj\x86\Debug\Konverter.pdb
+D:\Konv\Konverter\Konverter\obj\x86\Debug\Konverter.exe
+D:\Konv\Konverter\Konverter\obj\x86\Debug\Konverter.xml
+D:\Konv\Konverter\Konverter\obj\x86\Debug\Konverter.pdb
